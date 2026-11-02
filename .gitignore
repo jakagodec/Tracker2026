@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+tracker_env/
+tracker2026_p14/
+
+# PyInstaller output
+build/
+dist/
+run_app.spec
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Data and results (keep measurements out of the repo)
+*.twv
+*.csv
+
+# Local notes (superseded by README "Building a standalone app")
+rebuild.md
